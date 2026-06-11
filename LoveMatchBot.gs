@@ -5,8 +5,8 @@
 // ============================================================
 
 // ─── KONFIGURASI ────────────────────────────────────────────
-const TOKEN     = "ISI_TOKEN_BOT_KAMU";
-const SHEET_ID  = "ISI_SPREADSHEET_ID_KAMU";
+const TOKEN     = "5773434303:AAF9amKrM8AybRRKnm1yiKsRJwdzlHq-nao";
+const SHEET_ID  = "1Xvwnlus5zOqkU6-nIRwzmQRnVF08ta6fE0JWBvlXg8o";
 const BASE_URL  = `https://api.telegram.org/bot${TOKEN}`;
 
 // ─── SHEET HELPER ───────────────────────────────────────────
